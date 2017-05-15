@@ -1,0 +1,18 @@
+2017-05-13T21:28:22+00:00 RazorBlade#01 I: Start test parser tests suite:0:always pass.
+2017-05-13T21:28:22+00:00 RazorBlade#01 I: Test parser tests suite:0:always pass is successful.
+2017-05-13T21:28:22+00:00 RazorBlade#01 I: End test parser tests suite:0:always pass.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: Start test parser tests suite:6:a <* b.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: Test parser tests suite:6:a <* b is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: End test parser tests suite:6:a <* b.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: Start test parser tests suite:8:(a <* b) >>> (fun ...).
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: Test parser tests suite:8:(a <* b) >>> (fun ...) is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: End test parser tests suite:8:(a <* b) >>> (fun ...).
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: Start test parser tests suite:14:test `many1` fail.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: Test parser tests suite:14:test `many1` fail is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: End test parser tests suite:14:test `many1` fail.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: Start test parser tests suite:18:test generic ident.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: Test parser tests suite:18:test generic ident is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: End test parser tests suite:18:test generic ident.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: Start test parser tests suite:22:parse_any_ident reject keyword.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: Test parser tests suite:22:parse_any_ident reject keyword is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: End test parser tests suite:22:parse_any_ident reject keyword.

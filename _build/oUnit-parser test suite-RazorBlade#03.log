@@ -1,0 +1,9 @@
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: Start test parser test suite:2:parse var.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: Test parser test suite:2:parse var is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: End test parser test suite:2:parse var.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: Start test parser test suite:4:parse defun.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: Test parser test suite:4:parse defun is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: End test parser test suite:4:parse defun.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: Start test parser test suite:8:parse fail defun.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: Test parser test suite:8:parse fail defun is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: End test parser test suite:8:parse fail defun.

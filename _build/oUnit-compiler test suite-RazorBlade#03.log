@@ -1,0 +1,12 @@
+2017-05-06T01:30:46+00:00 RazorBlade#03 I: Start test compiler test suite:2:consume last ident.
+2017-05-06T01:30:46+00:00 RazorBlade#03 I: Test compiler test suite:2:consume last ident is successful.
+2017-05-06T01:30:46+00:00 RazorBlade#03 I: End test compiler test suite:2:consume last ident.
+2017-05-06T01:30:46+00:00 RazorBlade#03 I: Start test compiler test suite:6:consume `)`.
+2017-05-06T01:30:46+00:00 RazorBlade#03 I: Test compiler test suite:6:consume `)` is successful.
+2017-05-06T01:30:46+00:00 RazorBlade#03 I: End test compiler test suite:6:consume `)`.
+2017-05-06T01:30:46+00:00 RazorBlade#03 I: Start test compiler test suite:9:lex lparen.
+2017-05-06T01:30:46+00:00 RazorBlade#03 I: Test compiler test suite:9:lex lparen is successful.
+2017-05-06T01:30:46+00:00 RazorBlade#03 I: End test compiler test suite:9:lex lparen.
+2017-05-06T01:30:46+00:00 RazorBlade#03 I: Start test compiler test suite:12:lex (test '(-3 a)).
+2017-05-06T01:30:46+00:00 RazorBlade#03 I: Test compiler test suite:12:lex (test '(-3 a)) is successful.
+2017-05-06T01:30:46+00:00 RazorBlade#03 I: End test compiler test suite:12:lex (test '(-3 a)).

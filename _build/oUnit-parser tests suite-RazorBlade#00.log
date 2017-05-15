@@ -1,0 +1,183 @@
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Runner: processes
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Chooser: simple
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Configuration suite_name = "parser tests suite"
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Configuration cache_filename = "/home/QuinnFreedman/gist/_build/oUnit-$(suite_name).cache"
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Configuration display = "true"
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Configuration results_style_1_X = "false"
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Configuration verbose = "false"
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Configuration health_check_interval = "1."
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Configuration testdata_dir = "none"
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Configuration chooser = "simple"
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Configuration output_html_dir = "none"
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Configuration processes_kill_period = "5."
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Configuration runner = "processes"
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Configuration shards = "4"
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Configuration processes_grace_period = "5."
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Configuration log_encoding = "utf-8"
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Configuration output_junit_file = "none"
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Configuration output_file = "/home/QuinnFreedman/gist/_build/oUnit-$(suite_name)-$(shard_id).log"
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Using 4 workers maximum.
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Starting worker number RazorBlade#01.
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Worker RazorBlade#01 started.
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Starting worker number RazorBlade#02.
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Worker RazorBlade#02 started.
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Starting worker number RazorBlade#03.
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Worker RazorBlade#03 started.
+2017-05-13T21:28:22+00:00 RazorBlade#00 I: Starting worker number RazorBlade#04.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Worker RazorBlade#04 started.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:3:parse two idents, parser tests suite:2:p_ident fail, parser tests suite:1:parse defun, parser tests suite:0:always pass.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: Start test parser tests suite:0:always pass.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Start test parser tests suite:1:parse defun.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: Start test parser tests suite:2:p_ident fail.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:3:parse two idents, parser tests suite:2:p_ident fail, parser tests suite:1:parse defun, parser tests suite:0:always pass.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: Test parser tests suite:0:always pass is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Test parser tests suite:1:parse defun is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: Test parser tests suite:2:p_ident fail is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:3:parse two idents, parser tests suite:2:p_ident fail, parser tests suite:1:parse defun, parser tests suite:0:always pass.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: End test parser tests suite:0:always pass.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: End test parser tests suite:1:parse defun.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: End test parser tests suite:2:p_ident fail.
+2017-05-13T21:28:23+00:00 RazorBlade#04 I: Start test parser tests suite:3:parse two idents.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:3:parse two idents, parser tests suite:2:p_ident fail, parser tests suite:1:parse defun, parser tests suite:0:always pass.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:6:a <* b, parser tests suite:5:a *> b, parser tests suite:4:fail <*>, parser tests suite:3:parse two idents.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: Start test parser tests suite:4:fail <*>.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Start test parser tests suite:5:a *> b.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: Start test parser tests suite:6:a <* b.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:6:a <* b, parser tests suite:5:a *> b, parser tests suite:4:fail <*>, parser tests suite:3:parse two idents.
+2017-05-13T21:28:23+00:00 RazorBlade#04 I: Test parser tests suite:3:parse two idents is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:6:a <* b, parser tests suite:5:a *> b, parser tests suite:4:fail <*>, parser tests suite:3:parse two idents.
+2017-05-13T21:28:23+00:00 RazorBlade#04 I: End test parser tests suite:3:parse two idents.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: Test parser tests suite:4:fail <*> is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Test parser tests suite:5:a *> b is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: Test parser tests suite:6:a <* b is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:6:a <* b, parser tests suite:5:a *> b, parser tests suite:4:fail <*>, parser tests suite:3:parse two idents.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: End test parser tests suite:4:fail <*>.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: End test parser tests suite:5:a *> b.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: End test parser tests suite:6:a <* b.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:7:(a <* b) >>> (fun ...), parser tests suite:6:a <* b, parser tests suite:5:a *> b, parser tests suite:4:fail <*>.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:10:test `any` none, parser tests suite:9:a <?> b, parser tests suite:8:(a <* b) >>> (fun ...), parser tests suite:7:(a <* b) >>> (fun ...).
+2017-05-13T21:28:23+00:00 RazorBlade#04 I: Start test parser tests suite:7:(a <* b) >>> (fun ...).
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Start test parser tests suite:9:a <?> b.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:10:test `any` none, parser tests suite:9:a <?> b, parser tests suite:8:(a <* b) >>> (fun ...), parser tests suite:7:(a <* b) >>> (fun ...).
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: Start test parser tests suite:8:(a <* b) >>> (fun ...).
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: Start test parser tests suite:10:test `any` none.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:10:test `any` none, parser tests suite:9:a <?> b, parser tests suite:8:(a <* b) >>> (fun ...), parser tests suite:7:(a <* b) >>> (fun ...).
+2017-05-13T21:28:23+00:00 RazorBlade#04 I: Test parser tests suite:7:(a <* b) >>> (fun ...) is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Test parser tests suite:9:a <?> b is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:10:test `any` none, parser tests suite:9:a <?> b, parser tests suite:8:(a <* b) >>> (fun ...), parser tests suite:7:(a <* b) >>> (fun ...).
+2017-05-13T21:28:23+00:00 RazorBlade#04 I: End test parser tests suite:7:(a <* b) >>> (fun ...).
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: Test parser tests suite:8:(a <* b) >>> (fun ...) is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: End test parser tests suite:9:a <?> b.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: Test parser tests suite:10:test `any` none is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:10:test `any` none, parser tests suite:9:a <?> b, parser tests suite:8:(a <* b) >>> (fun ...), parser tests suite:7:(a <* b) >>> (fun ...).
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: End test parser tests suite:8:(a <* b) >>> (fun ...).
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: End test parser tests suite:10:test `any` none.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:12:test `many`, parser tests suite:11:test `many` one, parser tests suite:10:test `any` none, parser tests suite:8:(a <* b) >>> (fun ...).
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Start test parser tests suite:11:test `many` one.
+2017-05-13T21:28:23+00:00 RazorBlade#04 I: Start test parser tests suite:12:test `many`.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:14:test `many1` fail, parser tests suite:13:test `many1`, parser tests suite:12:test `many`, parser tests suite:11:test `many` one.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Test parser tests suite:11:test `many` one is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: Start test parser tests suite:13:test `many1`.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: Start test parser tests suite:14:test `many1` fail.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:14:test `many1` fail, parser tests suite:13:test `many1`, parser tests suite:12:test `many`, parser tests suite:11:test `many` one.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: End test parser tests suite:11:test `many` one.
+2017-05-13T21:28:23+00:00 RazorBlade#04 I: Test parser tests suite:12:test `many` is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: Test parser tests suite:13:test `many1` is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:14:test `many1` fail, parser tests suite:13:test `many1`, parser tests suite:12:test `many`, parser tests suite:11:test `many` one.
+2017-05-13T21:28:23+00:00 RazorBlade#04 I: End test parser tests suite:12:test `many`.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: End test parser tests suite:13:test `many1`.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: Test parser tests suite:14:test `many1` fail is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:15:test p_int, parser tests suite:14:test `many1` fail, parser tests suite:13:test `many1`, parser tests suite:12:test `many`.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: End test parser tests suite:14:test `many1` fail.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Start test parser tests suite:15:test p_int.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:17:a <?> b, parser tests suite:16:test p_lparen, parser tests suite:15:test p_int, parser tests suite:14:test `many1` fail.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: Start test parser tests suite:16:test p_lparen.
+2017-05-13T21:28:23+00:00 RazorBlade#04 I: Start test parser tests suite:17:a <?> b.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:18:test generic ident, parser tests suite:17:a <?> b, parser tests suite:16:test p_lparen, parser tests suite:15:test p_int.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Test parser tests suite:15:test p_int is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#04 I: Test parser tests suite:17:a <?> b is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: Start test parser tests suite:18:test generic ident.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:18:test generic ident, parser tests suite:17:a <?> b, parser tests suite:16:test p_lparen, parser tests suite:15:test p_int.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: End test parser tests suite:15:test p_int.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: Test parser tests suite:16:test p_lparen is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#04 I: End test parser tests suite:17:a <?> b.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:18:test generic ident, parser tests suite:17:a <?> b, parser tests suite:16:test p_lparen, parser tests suite:15:test p_int.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: End test parser tests suite:16:test p_lparen.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: Test parser tests suite:18:test generic ident is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:20:test `fix`, parser tests suite:19:test parse, parser tests suite:18:test generic ident, parser tests suite:16:test p_lparen.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: End test parser tests suite:18:test generic ident.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:21:test '( vs (, parser tests suite:20:test `fix`, parser tests suite:19:test parse, parser tests suite:18:test generic ident.
+2017-05-13T21:28:23+00:00 RazorBlade#04 I: Start test parser tests suite:19:test parse.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Start test parser tests suite:20:test `fix`.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:22:parse_any_ident reject keyword, parser tests suite:21:test '( vs (, parser tests suite:20:test `fix`, parser tests suite:19:test parse.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: Start test parser tests suite:21:test '( vs (.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:22:parse_any_ident reject keyword, parser tests suite:21:test '( vs (, parser tests suite:20:test `fix`, parser tests suite:19:test parse.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: Start test parser tests suite:22:parse_any_ident reject keyword.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:22:parse_any_ident reject keyword, parser tests suite:21:test '( vs (, parser tests suite:20:test `fix`, parser tests suite:19:test parse.
+2017-05-13T21:28:23+00:00 RazorBlade#04 I: Test parser tests suite:19:test parse is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Test parser tests suite:20:test `fix` is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:22:parse_any_ident reject keyword, parser tests suite:21:test '( vs (, parser tests suite:20:test `fix`, parser tests suite:19:test parse.
+2017-05-13T21:28:23+00:00 RazorBlade#04 I: End test parser tests suite:19:test parse.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: End test parser tests suite:20:test `fix`.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: Test parser tests suite:21:test '( vs ( is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 4 tests running: parser tests suite:22:parse_any_ident reject keyword, parser tests suite:21:test '( vs (, parser tests suite:20:test `fix`, parser tests suite:19:test parse.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: End test parser tests suite:21:test '( vs (.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: Test parser tests suite:22:parse_any_ident reject keyword is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Still 3 tests running : parser tests suite:23:<?> error presidence, parser tests suite:22:parse_any_ident reject keyword, parser tests suite:21:test '( vs (.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 3 tests running: parser tests suite:23:<?> error presidence, parser tests suite:22:parse_any_ident reject keyword, parser tests suite:21:test '( vs (.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: End test parser tests suite:22:parse_any_ident reject keyword.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Start test parser tests suite:23:<?> error presidence.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Still 2 tests running : parser tests suite:23:<?> error presidence, parser tests suite:22:parse_any_ident reject keyword.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 2 tests running: parser tests suite:23:<?> error presidence, parser tests suite:22:parse_any_ident reject keyword.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Still 1 tests running : parser tests suite:23:<?> error presidence.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 1 tests running: parser tests suite:23:<?> error presidence.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Test parser tests suite:23:<?> error presidence is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Still 1 tests running : parser tests suite:23:<?> error presidence.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 1 tests running: parser tests suite:23:<?> error presidence.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: End test parser tests suite:23:<?> error presidence.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Still 1 tests running : parser tests suite:23:<?> error presidence.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 1 tests running: parser tests suite:23:<?> error presidence.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 0 tests running: .
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Worker RazorBlade#04 has ended.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Worker RazorBlade#03 has ended.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Worker RazorBlade#01 has ended.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Worker RazorBlade#02 has ended.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Used 4 worker during test execution.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Run 6 tests with shard RazorBlade#01.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Run 5 tests with shard RazorBlade#04.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Run 6 tests with shard RazorBlade#03.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Run 7 tests with shard RazorBlade#02.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: ==============
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Summary:
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test parser tests suite:23:<?> error presidence is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test parser tests suite:22:parse_any_ident reject keyword is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test parser tests suite:21:test '( vs ( is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test parser tests suite:20:test `fix` is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test parser tests suite:19:test parse is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test parser tests suite:18:test generic ident is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test parser tests suite:16:test p_lparen is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test parser tests suite:17:a <?> b is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test parser tests suite:15:test p_int is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test parser tests suite:14:test `many1` fail is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test parser tests suite:13:test `many1` is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test parser tests suite:12:test `many` is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test parser tests suite:11:test `many` one is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test parser tests suite:10:test `any` none is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test parser tests suite:8:(a <* b) >>> (fun ...) is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test parser tests suite:9:a <?> b is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test parser tests suite:7:(a <* b) >>> (fun ...) is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test parser tests suite:6:a <* b is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test parser tests suite:5:a *> b is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test parser tests suite:4:fail <*> is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test parser tests suite:3:parse two idents is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test parser tests suite:2:p_ident fail is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test parser tests suite:1:parse defun is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test parser tests suite:0:always pass is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Ran: 24 tests in: 0.22 seconds.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Cases: 24.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Tried: 24.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Errors: 0.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Failures: 0.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Skip: 0.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Todo: 0.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Timeout: 0.

@@ -1,0 +1,12 @@
+2017-05-06T01:30:46+00:00 RazorBlade#02 I: Start test compiler test suite:1:consume asdf ghjk.
+2017-05-06T01:30:46+00:00 RazorBlade#02 I: Test compiler test suite:1:consume asdf ghjk is successful.
+2017-05-06T01:30:46+00:00 RazorBlade#02 I: End test compiler test suite:1:consume asdf ghjk.
+2017-05-06T01:30:46+00:00 RazorBlade#02 I: Start test compiler test suite:4:consume -12.
+2017-05-06T01:30:46+00:00 RazorBlade#02 I: Test compiler test suite:4:consume -12 is successful.
+2017-05-06T01:30:46+00:00 RazorBlade#02 I: End test compiler test suite:4:consume -12.
+2017-05-06T01:30:46+00:00 RazorBlade#02 I: Start test compiler test suite:8:lex rparen.
+2017-05-06T01:30:46+00:00 RazorBlade#02 I: Test compiler test suite:8:lex rparen is successful.
+2017-05-06T01:30:46+00:00 RazorBlade#02 I: End test compiler test suite:8:lex rparen.
+2017-05-06T01:30:46+00:00 RazorBlade#02 I: Start test compiler test suite:10:consume whitespace.
+2017-05-06T01:30:46+00:00 RazorBlade#02 I: Test compiler test suite:10:consume whitespace is successful.
+2017-05-06T01:30:46+00:00 RazorBlade#02 I: End test compiler test suite:10:consume whitespace.

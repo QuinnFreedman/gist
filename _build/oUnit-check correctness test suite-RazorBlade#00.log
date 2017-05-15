@@ -1,0 +1,69 @@
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Runner: processes
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Chooser: simple
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Configuration suite_name = "check correctness test suite"
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Configuration cache_filename = "/home/QuinnFreedman/gist/_build/oUnit-$(suite_name).cache"
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Configuration display = "true"
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Configuration results_style_1_X = "false"
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Configuration verbose = "false"
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Configuration health_check_interval = "1."
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Configuration testdata_dir = "none"
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Configuration chooser = "simple"
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Configuration output_html_dir = "none"
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Configuration processes_kill_period = "5."
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Configuration runner = "processes"
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Configuration shards = "4"
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Configuration processes_grace_period = "5."
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Configuration log_encoding = "utf-8"
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Configuration output_junit_file = "none"
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Configuration output_file = "/home/QuinnFreedman/gist/_build/oUnit-$(suite_name)-$(shard_id).log"
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Using 4 workers maximum.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Starting worker number RazorBlade#01.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Worker RazorBlade#01 started.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Starting worker number RazorBlade#02.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Worker RazorBlade#02 started.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Starting worker number RazorBlade#03.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Worker RazorBlade#03 started.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Still 3 tests running : check correctness test suite:2:check var exists true, check correctness test suite:1:check var exists, check correctness test suite:0:always pass.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 3 tests running: check correctness test suite:2:check var exists true, check correctness test suite:1:check var exists, check correctness test suite:0:always pass.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: Start test check correctness test suite:0:always pass.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Start test check correctness test suite:1:check var exists.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Still 3 tests running : check correctness test suite:2:check var exists true, check correctness test suite:1:check var exists, check correctness test suite:0:always pass.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 3 tests running: check correctness test suite:2:check var exists true, check correctness test suite:1:check var exists, check correctness test suite:0:always pass.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: Test check correctness test suite:0:always pass is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Test check correctness test suite:1:check var exists is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Still 3 tests running : check correctness test suite:2:check var exists true, check correctness test suite:1:check var exists, check correctness test suite:0:always pass.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 3 tests running: check correctness test suite:2:check var exists true, check correctness test suite:1:check var exists, check correctness test suite:0:always pass.
+2017-05-13T21:28:23+00:00 RazorBlade#01 I: End test check correctness test suite:0:always pass.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: End test check correctness test suite:1:check var exists.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: Start test check correctness test suite:2:check var exists true.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Still 3 tests running : check correctness test suite:2:check var exists true, check correctness test suite:1:check var exists, check correctness test suite:0:always pass.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 3 tests running: check correctness test suite:2:check var exists true, check correctness test suite:1:check var exists, check correctness test suite:0:always pass.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Still 1 tests running : check correctness test suite:2:check var exists true.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 1 tests running: check correctness test suite:2:check var exists true.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: Test check correctness test suite:2:check var exists true is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Still 1 tests running : check correctness test suite:2:check var exists true.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 1 tests running: check correctness test suite:2:check var exists true.
+2017-05-13T21:28:23+00:00 RazorBlade#03 I: End test check correctness test suite:2:check var exists true.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Still 1 tests running : check correctness test suite:2:check var exists true.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 1 tests running: check correctness test suite:2:check var exists true.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: 0 tests running: .
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Worker RazorBlade#01 has ended.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Worker RazorBlade#02 has ended.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Worker RazorBlade#03 has ended.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Used 3 worker during test execution.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Run 1 tests with shard RazorBlade#01.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Run 1 tests with shard RazorBlade#03.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Run 1 tests with shard RazorBlade#02.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: ==============
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Summary:
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test check correctness test suite:2:check var exists true is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test check correctness test suite:1:check var exists is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Test check correctness test suite:0:always pass is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Ran: 3 tests in: 0.17 seconds.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Cases: 3.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Tried: 3.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Errors: 0.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Failures: 0.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Skip: 0.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Todo: 0.
+2017-05-13T21:28:23+00:00 RazorBlade#00 I: Timeout: 0.

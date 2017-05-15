@@ -1,0 +1,9 @@
+2017-05-13T21:28:23+00:00 RazorBlade#04 I: Start test parser test suite:3:parse def.
+2017-05-13T21:28:23+00:00 RazorBlade#04 I: Test parser test suite:3:parse def is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#04 I: End test parser test suite:3:parse def.
+2017-05-13T21:28:23+00:00 RazorBlade#04 I: Start test parser test suite:7:parse defun.
+2017-05-13T21:28:23+00:00 RazorBlade#04 I: Test parser test suite:7:parse defun is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#04 I: End test parser test suite:7:parse defun.
+2017-05-13T21:28:23+00:00 RazorBlade#04 I: Start test parser test suite:9:parse fail keyword.
+2017-05-13T21:28:23+00:00 RazorBlade#04 I: Test parser test suite:9:parse fail keyword is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#04 I: End test parser test suite:9:parse fail keyword.

@@ -1,0 +1,21 @@
+2017-05-13T21:28:22+00:00 RazorBlade#02 I: Start test parser tests suite:1:parse defun.
+2017-05-13T21:28:22+00:00 RazorBlade#02 I: Test parser tests suite:1:parse defun is successful.
+2017-05-13T21:28:22+00:00 RazorBlade#02 I: End test parser tests suite:1:parse defun.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Start test parser tests suite:5:a *> b.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Test parser tests suite:5:a *> b is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: End test parser tests suite:5:a *> b.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Start test parser tests suite:9:a <?> b.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Test parser tests suite:9:a <?> b is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: End test parser tests suite:9:a <?> b.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Start test parser tests suite:11:test `many` one.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Test parser tests suite:11:test `many` one is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: End test parser tests suite:11:test `many` one.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Start test parser tests suite:15:test p_int.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Test parser tests suite:15:test p_int is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: End test parser tests suite:15:test p_int.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Start test parser tests suite:20:test `fix`.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Test parser tests suite:20:test `fix` is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: End test parser tests suite:20:test `fix`.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Start test parser tests suite:23:<?> error presidence.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Test parser tests suite:23:<?> error presidence is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: End test parser tests suite:23:<?> error presidence.

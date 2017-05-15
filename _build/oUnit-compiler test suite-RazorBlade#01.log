@@ -1,0 +1,12 @@
+2017-05-06T01:30:46+00:00 RazorBlade#01 I: Start test compiler test suite:0:this test should always pass.
+2017-05-06T01:30:46+00:00 RazorBlade#01 I: Test compiler test suite:0:this test should always pass is successful.
+2017-05-06T01:30:46+00:00 RazorBlade#01 I: End test compiler test suite:0:this test should always pass.
+2017-05-06T01:30:46+00:00 RazorBlade#01 I: Start test compiler test suite:5:consume `(`.
+2017-05-06T01:30:46+00:00 RazorBlade#01 I: Test compiler test suite:5:consume `(` is successful.
+2017-05-06T01:30:46+00:00 RazorBlade#01 I: End test compiler test suite:5:consume `(`.
+2017-05-06T01:30:46+00:00 RazorBlade#01 I: Start test compiler test suite:7:lex lparen.
+2017-05-06T01:30:46+00:00 RazorBlade#01 I: Test compiler test suite:7:lex lparen is successful.
+2017-05-06T01:30:46+00:00 RazorBlade#01 I: End test compiler test suite:7:lex lparen.
+2017-05-06T01:30:46+00:00 RazorBlade#01 I: Start test compiler test suite:11:consume whitespace newline.
+2017-05-06T01:30:46+00:00 RazorBlade#01 I: Test compiler test suite:11:consume whitespace newline is successful.
+2017-05-06T01:30:46+00:00 RazorBlade#01 I: End test compiler test suite:11:consume whitespace newline.

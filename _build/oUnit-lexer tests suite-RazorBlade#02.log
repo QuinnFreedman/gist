@@ -1,0 +1,12 @@
+2017-05-13T21:28:22+00:00 RazorBlade#02 I: Start test lexer tests suite:1:compare pos same line.
+2017-05-13T21:28:22+00:00 RazorBlade#02 I: Test lexer tests suite:1:compare pos same line is successful.
+2017-05-13T21:28:22+00:00 RazorBlade#02 I: End test lexer tests suite:1:compare pos same line.
+2017-05-13T21:28:22+00:00 RazorBlade#02 I: Start test lexer tests suite:5:consume last ident.
+2017-05-13T21:28:22+00:00 RazorBlade#02 I: Test lexer tests suite:5:consume last ident is successful.
+2017-05-13T21:28:22+00:00 RazorBlade#02 I: End test lexer tests suite:5:consume last ident.
+2017-05-13T21:28:22+00:00 RazorBlade#02 I: Start test lexer tests suite:8:consume `(`.
+2017-05-13T21:28:22+00:00 RazorBlade#02 I: Test lexer tests suite:8:consume `(` is successful.
+2017-05-13T21:28:22+00:00 RazorBlade#02 I: End test lexer tests suite:8:consume `(`.
+2017-05-13T21:28:22+00:00 RazorBlade#02 I: Start test lexer tests suite:12:lex lparen.
+2017-05-13T21:28:22+00:00 RazorBlade#02 I: Test lexer tests suite:12:lex lparen is successful.
+2017-05-13T21:28:22+00:00 RazorBlade#02 I: End test lexer tests suite:12:lex lparen.

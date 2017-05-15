@@ -1,0 +1,6 @@
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Start test parser test suite:1:parse int.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Test parser test suite:1:parse int is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: End test parser test suite:1:parse int.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Start test parser test suite:5:parse function call.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: Test parser test suite:5:parse function call is successful.
+2017-05-13T21:28:23+00:00 RazorBlade#02 I: End test parser test suite:5:parse function call.

@@ -1,0 +1,12 @@
+2017-05-13T21:28:22+00:00 RazorBlade#01 I: Start test lexer tests suite:0:compare pos.
+2017-05-13T21:28:22+00:00 RazorBlade#01 I: Test lexer tests suite:0:compare pos is successful.
+2017-05-13T21:28:22+00:00 RazorBlade#01 I: End test lexer tests suite:0:compare pos.
+2017-05-13T21:28:22+00:00 RazorBlade#01 I: Start test lexer tests suite:6:consume 123asdf.
+2017-05-13T21:28:22+00:00 RazorBlade#01 I: Test lexer tests suite:6:consume 123asdf is successful.
+2017-05-13T21:28:22+00:00 RazorBlade#01 I: End test lexer tests suite:6:consume 123asdf.
+2017-05-13T21:28:22+00:00 RazorBlade#01 I: Start test lexer tests suite:9:consume `)`.
+2017-05-13T21:28:22+00:00 RazorBlade#01 I: Test lexer tests suite:9:consume `)` is successful.
+2017-05-13T21:28:22+00:00 RazorBlade#01 I: End test lexer tests suite:9:consume `)`.
+2017-05-13T21:28:22+00:00 RazorBlade#01 I: Start test lexer tests suite:14:consume whitespace newline.
+2017-05-13T21:28:22+00:00 RazorBlade#01 I: Test lexer tests suite:14:consume whitespace newline is successful.
+2017-05-13T21:28:22+00:00 RazorBlade#01 I: End test lexer tests suite:14:consume whitespace newline.
